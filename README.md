@@ -5,5 +5,5 @@ Minimal python3 rabbitmq docker-compose Example
 [Install Docker](https://docs.docker.com/engine/installation/), then
 run `docker-compose up`.  Control-C will cleanly stop everything.
 
-The client message send the message every 2 seconds.
+The client send a message every 2 seconds.
 
